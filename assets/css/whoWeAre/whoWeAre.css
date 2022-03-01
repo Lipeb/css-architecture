@@ -1,4 +1,15 @@
 .who-we-are {
     text-align: center;
-    padding: 5rem;
+}
+
+@media screen and (min-width: 0) {
+    .who-we-are {
+        padding: 2.5rem 1rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .who-we-are {
+        padding: 2.5rem;
+    }
 }
