@@ -1,0 +1,21 @@
+.person__img {
+    background: red;
+    background-size: cover;
+    height: 300px;
+    background-position: center;
+    width: 300px;
+    background-repeat: no-repeat;
+    border-radius: 100%;
+}
+
+.person__img--person1 {
+    background-image: url('../../img/people/person1.jpg');
+}
+
+.person__img--person2 {
+    background-image: url('../../img/people/person2.jpg');
+}
+
+.person__img--person3 {
+    background-image: url('../../img/people/person3.jpg');
+}
